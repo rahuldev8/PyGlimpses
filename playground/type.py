@@ -1,6 +1,3 @@
-# a = bool(-1)
-# print(type(a))
-# print(a)
-# print(70 + int("1000978"))
+
 print(str(70) + str(1000))
 print(2**5)
